@@ -1,0 +1,250 @@
+[33m80f354f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{0}: reset: moving to HEAD
+[33m80f354f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{1}: pull: Merge made by the 'recursive' strategy.
+[33m24fd1f4[m HEAD@{2}: commit: update
+[33m64a8f2f[m HEAD@{3}: commit: update
+[33m1f25383[m HEAD@{4}: commit: update
+[33m4a2116a[m HEAD@{5}: commit: 2 main
+[33me70a573[m HEAD@{6}: commit: update
+[33m3aab8ed[m HEAD@{7}: commit: update
+[33me34d1c8[m HEAD@{8}: commit: update
+[33m333f130[m HEAD@{9}: commit: pushing all files to git
+[33m578f45d[m HEAD@{10}: commit: 101-strtow.c
+[33m6bc654b[m HEAD@{11}: commit: 100 change
+[33m4b93303[m HEAD@{12}: commit: 4 add
+[33m26fa40a[m HEAD@{13}: commit: 3 mul
+[33m593e82a[m HEAD@{14}: commit: 2 args
+[33mc015e64[m HEAD@{15}: commit: 1 args
+[33mb5e86ce[m HEAD@{16}: commit: whats my nme
+[33m948bd9b[m HEAD@{17}: commit: update
+[33md5ca4f3[m HEAD@{18}: commit: my task static lib
+[33mc784e99[m HEAD@{19}: commit: my task static lib
+[33m1d52623[m HEAD@{20}: commit: my task static lib
+[33m3eae8a1[m HEAD@{21}: commit: my task static lib
+[33m94ba5dc[m HEAD@{22}: commit: my task static lib
+[33mc0f754b[m HEAD@{23}: commit: update
+[33m0d1f318[m HEAD@{24}: commit: 1 memcpy
+[33m33d3d64[m HEAD@{25}: commit: _putchat
+[33m3a8faec[m HEAD@{26}: commit: 9 strcpy
+[33m5dda3d3[m HEAD@{27}: commit: 6 abs
+[33mc7a0683[m HEAD@{28}: commit: 5 strstr
+[33m6fc221a[m HEAD@{29}: commit: 4 strpbrk
+[33mf53b7c9[m HEAD@{30}: commit: 4 isalpha
+[33m34f1836[m HEAD@{31}: commit: 3 strspn
+[33m042e690[m HEAD@{32}: commit: 3 strcmp
+[33m096ad24[m HEAD@{33}: commit: 3 puts
+[33m71ef1a7[m HEAD@{34}: commit: 3 islower
+[33m0793b95[m HEAD@{35}: commit: 2 strncpy
+[33m96ef055[m HEAD@{36}: commit: 2 strlen
+[33m6a97f32[m HEAD@{37}: commit: 2 strchr
+[33m039d7b4[m HEAD@{38}: commit: 100 atoi
+[33mc32573c[m HEAD@{39}: commit: 1 strncat
+[33m54d0edc[m HEAD@{40}: commit: 1 memcpy
+[33m6c75437[m HEAD@{41}: commit: 1-isdigit
+[33m2f88350[m HEAD@{42}: commit: 0-strcat
+[33m8027a6d[m HEAD@{43}: commit: 0-memset.c
+[33m4451f77[m HEAD@{44}: commit: 0-isupper.o
+[33m34bbb02[m HEAD@{45}: commit: 0-isupper.c
+[33m45a1041[m HEAD@{46}: commit: 0-isupper.o
+[33m54e78ec[m HEAD@{47}: commit: main.h
+[33m6bfa504[m HEAD@{48}: commit: 101 wildcmp
+[33m62bd817[m HEAD@{49}: commit: 100 is palindrome
+[33mfe9ad4d[m HEAD@{50}: commit: 6 is prime number
+[33m044552d[m HEAD@{51}: commit: 5 sqrt recursion
+[33mc0652fe[m HEAD@{52}: commit: 4 pow recursion
+[33m8e7cc5d[m HEAD@{53}: commit: 3 factorial
+[33m2bfd1f5[m HEAD@{54}: commit: 2 strlen recursion
+[33m5fb3412[m HEAD@{55}: commit: 1 print rev recursion
+[33mc6d2a27[m HEAD@{56}: commit: 0 put recursion
+[33m97d0994[m HEAD@{57}: commit: 100 string
+[33m030539a[m HEAD@{58}: commit: 100 set string
+[33m8f893d0[m HEAD@{59}: commit: 101 crackme password
+[33m5568d6c[m HEAD@{60}: commit: 100 set spring
+[33m88d1527[m HEAD@{61}: commit: 100 set spring
+[33m1b75c4a[m HEAD@{62}: commit: 100 set spring
+[33m9e44585[m HEAD@{63}: commit: crackme password
+[33m981ca3c[m HEAD@{64}: commit: 100 set string
+[33m3de2d1e[m HEAD@{65}: commit: 100 set string
+[33m56c879b[m HEAD@{66}: commit: 8 print diagsums
+[33m6309e73[m HEAD@{67}: commit: 7 print chessboard
+[33mc51991c[m HEAD@{68}: commit: 7 print chessboard
+[33m52f1d2c[m HEAD@{69}: commit: 7 print chessboard
+[33m9386774[m HEAD@{70}: commit: 7 print chessboard
+[33m73644d4[m HEAD@{71}: commit: 7 print chessboard
+[33m4188cf2[m HEAD@{72}: commit: 5 strstr
+[33m39d195a[m HEAD@{73}: commit: 4 strpbrk
+[33m138c37b[m HEAD@{74}: commit: 3 strspn
+[33m90d33e8[m HEAD@{75}: commit: 2 strchr
+[33m8aeccef[m HEAD@{76}: commit: 2 strchr
+[33m0e074d9[m HEAD@{77}: commit: 1 memcpy
+[33me48fbf1[m HEAD@{78}: commit: 1 memcpy
+[33m9e021e8[m HEAD@{79}: commit: 0 memset
+[33m2687a77[m HEAD@{80}: commit: 102 magic
+[33m234a306[m HEAD@{81}: commit: 104 print buffer
+[33m036aa63[m HEAD@{82}: commit: 104 print buffer
+[33mf7cd60d[m HEAD@{83}: commit: 104 print buffer
+[33m8edcd65[m HEAD@{84}: commit: 104 print buffer
+[33mfb29618[m HEAD@{85}: commit: 102 magic
+[33m4eca460[m HEAD@{86}: commit: 102 magic
+[33m562798e[m HEAD@{87}: commit: 101 print number
+[33m520cb49[m HEAD@{88}: commit: 100 rot13
+[33m8d3ee15[m HEAD@{89}: commit: 100 rot13
+[33m946e2a2[m HEAD@{90}: commit: 7 leet
+[33m94dd901[m HEAD@{91}: commit: 6 cap string
+[33md13f0a9[m HEAD@{92}: commit: 5 string toupper
+[33m35b1306[m HEAD@{93}: commit: 5 string toupper
+[33m477f563[m HEAD@{94}: commit: 5 string toupper
+[33mfcd206c[m HEAD@{95}: commit: 4 rev array
+[33m0b055c0[m HEAD@{96}: commit: 3 strcmp
+[33m85813df[m HEAD@{97}: commit: 2 strncpy
+[33m7d1311b[m HEAD@{98}: commit: 2 strncpy
+[33md2502a4[m HEAD@{99}: commit: 2 strncpy
+[33m81e4254[m HEAD@{100}: commit: 1 strncat
+[33m232261e[m HEAD@{101}: commit: 1 strncat
+[33m2ccaac2[m HEAD@{102}: commit: 1 strncat
+[33macc5fc5[m HEAD@{103}: commit: 1 strncat
+[33m8f99475[m HEAD@{104}: commit: 1 strncat
+[33m7c7da98[m HEAD@{105}: commit: 0 strcat
+[33m9a6e77a[m HEAD@{106}: commit: 7 puts half
+[33m3637731[m HEAD@{107}: commit: 7 puts half
+[33m8bb0fa0[m HEAD@{108}: commit: 5 rev string
+[33m9c5f9a4[m HEAD@{109}: commit: 5 rev string
+[33m9af8610[m HEAD@{110}: commit: 100 keygen
+[33mcfcc6c2[m HEAD@{111}: commit: 100 keygen
+[33m0d0c7af[m HEAD@{112}: commit: 100 atoi
+[33mad994a2[m HEAD@{113}: commit: 9 strcpy
+[33m497facf[m HEAD@{114}: commit: 9 strcpy
+[33mefe5497[m HEAD@{115}: commit: 8 print array
+[33m5b26738[m HEAD@{116}: commit: 8 print array
+[33me32408c[m HEAD@{117}: commit: 8 print array
+[33mbbd6717[m HEAD@{118}: commit: 8 print array
+[33mb121e16[m HEAD@{119}: commit: 8 print array
+[33m0e72460[m HEAD@{120}: commit: 7 puts half
+[33me599989[m HEAD@{121}: commit: 7 puts half
+[33m998f664[m HEAD@{122}: commit: 6 puts2
+[33m16666fe[m HEAD@{123}: commit: 5 rev string
+[33m141be31[m HEAD@{124}: commit: 5 rev string
+[33m7a5f37a[m HEAD@{125}: commit: 5 rev string
+[33m7ffdff4[m HEAD@{126}: commit: 4 print rev
+[33mbf1b816[m HEAD@{127}: commit: 3 put
+[33m9fce60f[m HEAD@{128}: commit: 2 strlen.c
+[33mea02af5[m HEAD@{129}: commit: 1 swap.c
+[33m316b6c8[m HEAD@{130}: commit: 0 reset to 98
+[33md245c56[m HEAD@{131}: commit: 101 print number
+[33meee9813[m HEAD@{132}: commit: 101 print number
+[33m07cc132[m HEAD@{133}: commit: 100 prime factor
+[33mb01623c[m HEAD@{134}: commit: 100 prime factor
+[33m1e2c4a7[m HEAD@{135}: commit: 100 prime factor
+[33me8892c6[m HEAD@{136}: commit: 10 print triangle
+[33m7bc1347[m HEAD@{137}: commit: 9 fizz buzz
+[33me863493[m HEAD@{138}: commit: 9 fizz buzz
+[33m4450cf8[m HEAD@{139}: commit: 8 print square
+[33mc5c4ecf[m HEAD@{140}: commit: 7 print diagonal
+[33m333b9fc[m HEAD@{141}: commit: 6 print line
+[33me278055[m HEAD@{142}: commit: 5 more numbers
+[33me7930ad[m HEAD@{143}: commit: 5 more numbers
+[33m3aad5e7[m HEAD@{144}: commit: 4 print most numbers
+[33m47fb416[m HEAD@{145}: commit: 4 print most numbers
+[33mdc96693[m HEAD@{146}: commit: 4 print most numbers
+[33ma58181a[m HEAD@{147}: commit: 4 print most numbers
+[33mf0b16e5[m HEAD@{148}: commit: 3 print numbers
+[33m25d696e[m HEAD@{149}: commit: 2 mul
+[33m9720b39[m HEAD@{150}: commit: 1 isdigit
+[33m45509f7[m HEAD@{151}: commit: 0 isupper
+[33mc87d4b7[m HEAD@{152}: commit: 3 print remaining days
+[33m9fb2b95[m HEAD@{153}: commit: 3 print remainint days
+[33ma5b06f6[m HEAD@{154}: commit: 3 print remainint days
+[33m3c8a954[m HEAD@{155}: commit: 3 print remainint days
+[33mb6a319a[m HEAD@{156}: commit: 3 print remainint days
+[33m0ea5dad[m HEAD@{157}: commit: 3 print remainint days
+[33m5101aac[m HEAD@{158}: commit: 3 print remaining days
+[33mae8476b[m HEAD@{159}: commit: task 2
+[33m6ca45fb[m HEAD@{160}: commit: task 2
+[33m9c4922d[m HEAD@{161}: commit: task 2
+[33m4d67295[m HEAD@{162}: commit: task 2
+[33m8d4b217[m HEAD@{163}: commit: task 1
+[33m0cc7f5f[m HEAD@{164}: commit: task 1
+[33mfcda342[m HEAD@{165}: commit: task 1
+[33m64d6bde[m HEAD@{166}: commit: task 1
+[33m9113ff3[m HEAD@{167}: commit: task 0
+[33maf03d68[m HEAD@{168}: commit: 104 fibonacci
+[33mcb475fc[m HEAD@{169}: commit: 104 fibonacci
+[33m81dc819[m HEAD@{170}: commit: 103 fibonacci
+[33ma11be37[m HEAD@{171}: commit: 102 fibonacc1
+[33m9eb884d[m HEAD@{172}: commit: 102 fibonacc1
+[33m8cbbf89[m HEAD@{173}: commit: 101 natural
+[33m8cef2d7[m HEAD@{174}: commit: 101 natural
+[33maf6ce29[m HEAD@{175}: commit: 100 times table
+[33me4d5c24[m HEAD@{176}: commit: 100 times table
+[33m66d4812[m HEAD@{177}: commit: 11 print to 98
+[33m92b120d[m HEAD@{178}: commit: 10 add
+[33mc06a58e[m HEAD@{179}: commit: 9 times table
+[33maa3c236[m HEAD@{180}: commit: 9 times table
+[33m097b713[m HEAD@{181}: commit: 8 24 hours
+[33me34d2bc[m HEAD@{182}: commit: 7 print last digit
+[33m7856864[m HEAD@{183}: commit: 6 abs
+[33m0c576bb[m HEAD@{184}: commit: 5 sign
+[33m85c74d2[m HEAD@{185}: commit: 4 isalpha
+[33m93d0df5[m HEAD@{186}: commit: 1-last_digit
+[33ma42856a[m HEAD@{187}: commit: 1-last_digit
+[33mb40048c[m HEAD@{188}: commit: is lower
+[33m9e8b913[m HEAD@{189}: commit: is lower
+[33m45039c0[m HEAD@{190}: commit: 2 print alphabet x10
+[33m39cb2a7[m HEAD@{191}: commit: 2 print alphabet x10
+[33m3761a34[m HEAD@{192}: commit: 1 alphabet
+[33m95ec7d0[m HEAD@{193}: commit: task 0
+[33md859af5[m HEAD@{194}: commit: task 0
+[33mbfb9a69[m HEAD@{195}: commit: Preprocessor
+[33m50685a9[m HEAD@{196}: commit: 1 last digit
+[33m5079fd7[m HEAD@{197}: commit: 1 last digit
+[33m2997c7a[m HEAD@{198}: commit: 102 print comb5
+[33mfc96206[m HEAD@{199}: commit: 102 print comb5
+[33mce53dbd[m HEAD@{200}: commit: 101 print comb4
+[33m220ed96[m HEAD@{201}: commit: 101 print comb4
+[33me3a2f2c[m HEAD@{202}: commit: 101 print comb4
+[33meb4acbf[m HEAD@{203}: commit: 101 print comb4
+[33mbe990c4[m HEAD@{204}: commit: 101 print comb4
+[33me4b8cd1[m HEAD@{205}: commit: 100 print comb3
+[33m9590eef[m HEAD@{206}: commit: 9 print comb
+[33mcde5f05[m HEAD@{207}: commit: 8 print base16
+[33mcffb2ad[m HEAD@{208}: commit: 7 print tebahpla
+[33m9783e38[m HEAD@{209}: commit: 7 print tebahpla
+[33m70b29d8[m HEAD@{210}: commit: 6 print numberz
+[33m548616c[m HEAD@{211}: commit: 6 print numberz
+[33m55cdd9c[m HEAD@{212}: commit: 5 print numbers
+[33m1142e50[m HEAD@{213}: commit: 4 print alphabt
+[33mdc024b7[m HEAD@{214}: commit: 4 print alphabt
+[33mfe953ff[m HEAD@{215}: commit: 3 print alphabets
+[33mc3cd539[m HEAD@{216}: commit: 2 print alphabet
+[33m88441e9[m HEAD@{217}: commit: 2 print alphabet
+[33m015125e[m HEAD@{218}: commit: 1 last digit
+[33m541c9ca[m HEAD@{219}: commit: 1 last digit
+[33m52ac5ea[m HEAD@{220}: commit: 1 last digit
+[33mb066599[m HEAD@{221}: commit: Positive or negative
+[33m0826218[m HEAD@{222}: commit: 0 positive or negative
+[33mcf1b560[m HEAD@{223}: commit: 0 preprocessor
+[33m1352d8d[m HEAD@{224}: commit: 6 size
+[33m0b427f5[m HEAD@{225}: commit: 6 size
+[33mec3e783[m HEAD@{226}: commit: 4 puts
+[33m47e6764[m HEAD@{227}: commit: 4 puts
+[33m33eb3ac[m HEAD@{228}: commit: 101 quote
+[33md837309[m HEAD@{229}: commit: 100 intel
+[33m043dff9[m HEAD@{230}: commit: 6 size.c
+[33mbff5a7f[m HEAD@{231}: commit: 6 size.c
+[33me2cc8eb[m HEAD@{232}: commit: 6 size.c
+[33m7ca15da[m HEAD@{233}: commit: 6 size.c
+[33mfe1d05e[m HEAD@{234}: commit: 6 size.c
+[33m230ff4a[m HEAD@{235}: commit: 5 printf
+[33m486f945[m HEAD@{236}: commit: 5 printf
+[33md2ae79f[m HEAD@{237}: commit: 5 printf
+[33m9841338[m HEAD@{238}: commit: 4 puts
+[33md41ecd5[m HEAD@{239}: commit: 4 puts
+[33m878b31e[m HEAD@{240}: commit: 4 puts
+[33m0470514[m HEAD@{241}: commit: 4 puts
+[33m8cea622[m HEAD@{242}: commit: 4 puts
+[33m7f01193[m HEAD@{243}: commit: 4 puts
+[33mbd07962[m HEAD@{244}: commit: 4 puts
+[33m0e49624[m HEAD@{245}: commit: 4-put.c
+[33m80a868d[m HEAD@{246}: commit: 3 name
+[33m0aca45e[m HEAD@{247}: commit: 2 assembler
+[33m87a6a08[m HEAD@{248}: commit: 1 compiler
+[33meb4c046[m HEAD@{249}: commit (initial): 0 preprocessor
