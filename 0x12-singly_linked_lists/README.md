@@ -1,1 +1,1 @@
-0x12 C-Singly linked list
+singly_list
